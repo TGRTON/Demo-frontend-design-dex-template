@@ -95,7 +95,7 @@
                            </a>
                            <ul class="dropdown-menu" data-bs-popper="static">
                               <li>
-                                 <a class="dropdown-item d-flex" href="https://tegro.io/wallet.php" target="_blank" title="Web Wallet">
+                                 <a class="dropdown-item d-flex" href="https://tegro.finance/wallet/.php" target="_blank" title="Web Wallet">
                                     <i class="fa-light fa-wallet dropdown-item-icon"></i>
                                     <div class="ms-3">
                                        Web Wallet
@@ -138,7 +138,7 @@
                            </a>
                            <ul class="dropdown-menu" data-bs-popper="static">
                               <li>
-                                 <a class="dropdown-item d-flex" href="https://tegro.io/commerce.php" target="__blank">
+                                 <a class="dropdown-item d-flex" href="https://tegro.money/.php" target="__blank">
                                     <i class="fa-light fa-money-check-dollar-pen dropdown-item-icon"></i>
                                     <div class="ms-3">
                                        Payment system
