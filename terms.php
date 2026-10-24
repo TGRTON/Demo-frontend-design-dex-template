@@ -10,7 +10,7 @@
                </div>
                <h2 class="mb-4">Overview</h2>
                <div class="color-grey mb-5">
-                  <p>Please read the present Terms of Use (the “ToU”) carefully as they form a binding legal agreement between the operator of the Application (“J&amp;B”, “we”, “us”, or “our”) a company registered according to the laws of Panama under registration No. 155686316, having its registered address at F&amp;F Tower Piso 43 Suite 43D Calle 50 Panama City, Panama, and you. The ToU govern the use of the Application (as defined below) and apply to all users of the Application as well as other services and resources provided by us.</p>
+                  <p>Please read the present Terms of Use (the “ToU”) carefully as they form a binding legal agreement between the operator of the Application (“we”, “us”, or “our”) and you. The ToU govern the use of the Application (as defined below) and apply to all users of the Application as well as other services and resources provided by us.</p>
                   <p>By downloading and using the Application and any services provided by us, you affirm that you are an individual, at least 18 years of age or older, have the capacity to enter into this ToU and agree that you have read, understood, and accept all of the terms and conditions contained herein.</p>
                   <p>We make our ToU available in our Application in its most recent version. We may change the ToU at any time. Any such changes shall take effect when posted in the Application or when you use the Application. Read the ToU carefully on each occasion you use the Application. Your continued use of the Application shall signify your acceptance to be bound by the modified ToU.</p>
                </div>
